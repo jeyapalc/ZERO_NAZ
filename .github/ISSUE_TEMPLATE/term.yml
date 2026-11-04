@@ -1,0 +1,23 @@
+name: Suggest or correct a term
+description: Provide evidence for a moderation lexicon addition or correction
+body:
+  - type: textarea
+    id: term
+    attributes:
+      label: Term, variants, and language
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Exact source URLs and documented meaning
+      description: Include independent corroboration where possible. Do not paste propaganda or entire glossary pages.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and likely false positives
+      description: Describe historical, cultural, educational, reclaimed, and ordinary uses.
+    validations:
+      required: true

@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "code-18",
+    "term": "18",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Hitler initials.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "code-88",
+    "term": "88",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Nazi greeting code.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "code-28",
+    "term": "28",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Blood & Honour code.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "code-19-8",
+    "term": "19/8",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Nazi victory greeting code.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "code-192",
+    "term": "192",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Hitler-return code.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "code-444",
+    "term": "444",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Ethnonationalist slogan code.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "code-168-1",
+    "term": "168:1",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Oklahoma City attack glorification.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "de-8",
+    "term": "Blut und Ehre",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "Hitler Youth slogan.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "de-9",
+    "term": "Meine Ehre heißt Treue",
+    "aliases": [
+      "Meine Ehre heisst Treue",
+      "Meine Ehre heißt Treue!"
+    ],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "SS motto.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "de-10",
+    "term": "Unsere Ehre heißt Treue",
+    "aliases": [
+      "Unsere Ehre heisst Treue"
+    ],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "SS motto variant.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "de-11",
+    "term": "Alles für Deutschland",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "SA slogan.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "de-12",
+    "term": "Frei, sozial und national",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "Neo-Nazi demonstration slogan.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "de-13",
+    "term": "Nationaler Sozialismus jetzt",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "Neo-Nazi demonstration slogan.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "combat-18",
+    "term": "Combat 18",
+    "aliases": [
+      "C18",
+      "C-18"
+    ],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Neo-Nazi organization.",
+    "source_ids": [
+      "bige",
+      "adl-318"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "blood-honour",
+    "term": "Blood & Honour",
+    "aliases": [
+      "Blood and Honour"
+    ],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Racist skinhead network.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-ah",
+    "term": "AH",
+    "aliases": [],
+    "category": "acronym",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Hitler initials.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-bh",
+    "term": "BH",
+    "aliases": [],
+    "category": "acronym",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Blood & Honor initials.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-hh",
+    "term": "HH",
+    "aliases": [],
+    "category": "acronym",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Nazi greeting initials.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-hj",
+    "term": "HJ",
+    "aliases": [],
+    "category": "acronym",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Hitlerjugend initials.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-ss",
+    "term": "SS",
+    "aliases": [],
+    "category": "acronym",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Schutzstaffel initials.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-sa",
+    "term": "SA",
+    "aliases": [],
+    "category": "acronym",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Sturmabteilung initials.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-ns",
+    "term": "NS",
+    "aliases": [],
+    "category": "acronym",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Nationalsozialismus initials.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-wp",
+    "term": "WP",
+    "aliases": [],
+    "category": "acronym",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "White Power or White Pride initials.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-25",
+    "term": "25",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Blut & Ehre code.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-198",
+    "term": "198",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Sieg Heil code.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-204",
+    "term": "204",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Hitler birthday code.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "short-2004",
+    "term": "2004",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Hitler birthday code.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "hitler",
+    "term": "Adolf Hitler",
+    "aliases": [],
+    "category": "person",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Historical Nazi leader.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "greeting-29",
+    "term": "Heil Hitler",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "Historical Nazi greeting.",
+    "source_ids": [
+      "bw"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "greeting-30",
+    "term": "Sieg Heil",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "Historical Nazi greeting.",
+    "source_ids": [
+      "bw"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "greeting-31",
+    "term": "Mit deutschem Gruß",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "Historical Nazi greeting.",
+    "source_ids": [
+      "bw"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "greeting-32",
+    "term": "Sieg und Heil für Deutschland",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "de"
+    ],
+    "meaning": "Historical Nazi greeting.",
+    "source_ids": [
+      "bw"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "number-13-52",
+    "term": "13/52",
+    "aliases": [
+      "13/50"
+    ],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Racist crime-statistics dogwhistle.",
+    "source_ids": [
+      "adl-crime"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "number-13-90",
+    "term": "13/90",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Racist crime-statistics dogwhistle.",
+    "source_ids": [
+      "adl-crime"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "number-23-16",
+    "term": "23/16",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "White Power code.",
+    "source_ids": [
+      "adl-2316"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "number-318",
+    "term": "318",
+    "aliases": [
+      "8318"
+    ],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Combat 18-associated code.",
+    "source_ids": [
+      "adl-318"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "number-33-6",
+    "term": "33/6",
+    "aliases": [
+      "33/5"
+    ],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Klan-associated code.",
+    "source_ids": [
+      "adl-336"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "number-271k",
+    "term": "271k",
+    "aliases": [
+      "271,000",
+      "271"
+    ],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Holocaust victim-count denial code.",
+    "source_ids": [
+      "adl-271k"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "1488",
+    "term": "1488",
+    "aliases": [
+      "14/88",
+      "14-88",
+      "8814"
+    ],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Combined Fourteen Words and Nazi greeting code.",
+    "source_ids": [
+      "adl-1488"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "fourteen",
+    "term": "14 Words",
+    "aliases": [
+      "Fourteen Words",
+      "14"
+    ],
+    "category": "slogan",
+    "languages": [
+      "en"
+    ],
+    "meaning": "White supremacist slogan reference.",
+    "source_ids": [
+      "adl-1488"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "311",
+    "term": "311",
+    "aliases": [],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Klan code: three instances of the eleventh letter.",
+    "source_ids": [
+      "adl-311"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Also a non-extremist band name, municipal service number, and ordinary number.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "109",
+    "term": "109",
+    "aliases": [
+      "110",
+      "109/110",
+      "1488-110"
+    ],
+    "category": "numeric_code",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Antisemitic expulsion myth and calls for another expulsion.",
+    "source_ids": [
+      "adl-109"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "110 is also a German emergency number; ordinary quantities are not evidence of hate.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "rahowa",
+    "term": "RAHOWA",
+    "aliases": [
+      "Racial Holy War"
+    ],
+    "category": "acronym",
+    "languages": [
+      "en"
+    ],
+    "meaning": "White supremacist rallying cry.",
+    "source_ids": [
+      "adl-rahowa"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "zog",
+    "term": "ZOG",
+    "aliases": [
+      "Zionist Occupied Government"
+    ],
+    "category": "conspiracy",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Antisemitic government-control conspiracy code.",
+    "source_ids": [
+      "adl-zog"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "black-sun",
+    "term": "Sonnenrad",
+    "aliases": [
+      "Black Sun",
+      "Schwarze Sonne"
+    ],
+    "category": "visual_symbol",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Nazi-derived twelve-ray design used by white supremacists.",
+    "source_ids": [
+      "adl-sun"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "visual_and_text",
+    "context_note": "Generic sunwheels and the words black sun have unrelated uses. Text matching cannot identify the specific design.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "othala",
+    "term": "Othala",
+    "aliases": [
+      "Odal rune",
+      "Othala rune",
+      "Odalrune",
+      "ᛟ"
+    ],
+    "category": "visual_symbol",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Rune appropriated by Nazis and white supremacists.",
+    "source_ids": [
+      "adl-othala"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "visual_and_text",
+    "context_note": "Runic writing and non-racist pagan uses are common. Unicode glyph does not encode stylistic variants.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "symbol-47",
+    "term": "Hakenkreuz",
+    "aliases": [
+      "Swastika",
+      "卐",
+      "卍"
+    ],
+    "category": "visual_symbol",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Nazi appropriation of an older symbol.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "visual_and_text",
+    "context_note": "Text labels or Unicode approximations cannot establish visual design or intent. Religious, historical, cultural, and educational uses require review.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "symbol-48",
+    "term": "Doppel-Sigrune",
+    "aliases": [
+      "SS bolts",
+      "SS runes",
+      "ᛋᛋ"
+    ],
+    "category": "visual_symbol",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "SS insignia.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "visual_and_text",
+    "context_note": "Text labels or Unicode approximations cannot establish visual design or intent. Religious, historical, cultural, and educational uses require review.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "symbol-49",
+    "term": "SS-Totenkopf",
+    "aliases": [],
+    "category": "visual_symbol",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Specific SS skull insignia.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "visual_and_text",
+    "context_note": "Text labels or Unicode approximations cannot establish visual design or intent. Religious, historical, cultural, and educational uses require review.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "symbol-50",
+    "term": "Keltenkreuz",
+    "aliases": [
+      "Celtic cross"
+    ],
+    "category": "visual_symbol",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Cross design with extremist and other uses.",
+    "source_ids": [
+      "bige"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "visual_and_text",
+    "context_note": "Text labels or Unicode approximations cannot establish visual design or intent. Religious, historical, cultural, and educational uses require review.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "echo",
+    "term": "(((echo)))",
+    "aliases": [],
+    "category": "typographic_pattern",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Triple parentheses used to mark Jewish targets.",
+    "source_ids": [
+      "ajc-echo"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Also used in solidarity and quotation. Detects structure, not the identity of the enclosed person.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "holohoax",
+    "term": "Holohoax",
+    "aliases": [],
+    "category": "holocaust_denial",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Holocaust-denial term.",
+    "source_ids": [
+      "ajc-hoax"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "anudda",
+    "term": "Anudda Shoah",
+    "aliases": [],
+    "category": "holocaust_mockery",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Antisemitic mockery of Jews and Holocaust remembrance.",
+    "source_ids": [
+      "adl-anudda"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "gorillion",
+    "term": "Six Gorillion",
+    "aliases": [
+      "Muh Six Gorillion"
+    ],
+    "category": "holocaust_mockery",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Mocks the Holocaust victim count.",
+    "source_ids": [
+      "adl-gorillion"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "turner",
+    "term": "The Turner Diaries",
+    "aliases": [],
+    "category": "publication",
+    "languages": [
+      "en"
+    ],
+    "meaning": "White supremacist novel.",
+    "source_ids": [
+      "turner"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "rope",
+    "term": "Day of the Rope",
+    "aliases": [],
+    "category": "violent_reference",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Reference to mass lynching in The Turner Diaries.",
+    "source_ids": [
+      "turner"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "wpww",
+    "term": "WPWW",
+    "aliases": [
+      "White Pride World Wide"
+    ],
+    "category": "acronym",
+    "languages": [
+      "en"
+    ],
+    "meaning": "White supremacist slogan acronym.",
+    "source_ids": [
+      "adl-wpww"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "stormfront",
+    "term": "Stormfront",
+    "aliases": [],
+    "category": "organization",
+    "languages": [
+      "en"
+    ],
+    "meaning": "White supremacist website name.",
+    "source_ids": [
+      "adl-wpww"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "swp",
+    "term": "SWP",
+    "aliases": [
+      "Supreme White Power"
+    ],
+    "category": "acronym",
+    "languages": [
+      "en"
+    ],
+    "meaning": "White supremacist slogan initials.",
+    "source_ids": [
+      "adl-swp"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "SWP has unrelated political and technical meanings; initials alone are weak evidence.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "blood-soil",
+    "term": "Blut und Boden",
+    "aliases": [
+      "Blood and Soil"
+    ],
+    "category": "slogan",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Racial-nationalist slogan used by neo-Nazis.",
+    "source_ids": [
+      "adl-german"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "hygiene",
+    "term": "Rassenhygiene",
+    "aliases": [
+      "racial hygiene"
+    ],
+    "category": "historical_term",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Racist eugenics concept.",
+    "source_ids": [
+      "ushmm"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "German translation supplied by project. Common in critical history, medicine, and museum discussion.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "traitor",
+    "term": "Volksverräter",
+    "aliases": [
+      "Volksverraeter"
+    ],
+    "category": "contextual_term",
+    "languages": [
+      "de"
+    ],
+    "meaning": "Political insult with a history in dictatorships.",
+    "source_ids": [
+      "unwort"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Not specific to neo-Nazism. Review target, intimidation, and surrounding rhetoric.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "skrewdriver",
+    "term": "Skrewdriver",
+    "aliases": [],
+    "category": "music",
+    "languages": [
+      "en"
+    ],
+    "meaning": "White power band.",
+    "source_ids": [
+      "adl-print"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "donaldson",
+    "term": "Ian Stuart Donaldson",
+    "aliases": [],
+    "category": "person",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Skrewdriver leader.",
+    "source_ids": [
+      "adl-print"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "zyklon",
+    "term": "Zyklon B",
+    "aliases": [],
+    "category": "historical_term",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Nazi killing agent referenced in antisemitic abuse.",
+    "source_ids": [
+      "adl-zyklon"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Historical, scientific, and memorial references are legitimate; do not expand this to every mention of Zyklon.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "pepe",
+    "term": "Pepe the Frog",
+    "aliases": [],
+    "category": "visual_symbol",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Meme with hateful and non-hateful uses.",
+    "source_ids": [
+      "adl-pepe"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "visual_and_text",
+    "context_note": "Ordinary Pepe memes and frog emoji are not evidence of extremism. Inspect the specific depiction and surrounding content.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "okay",
+    "term": "Okay hand gesture",
+    "aliases": [],
+    "category": "visual_symbol",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Common gesture sometimes appropriated by extremists.",
+    "source_ids": [
+      "adl-okay"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "visual_only",
+    "context_note": "Ordinary gestures and the okay emoji are overwhelmingly ambiguous. Excluded from literal exports and the text matcher.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "kkk",
+    "term": "Ku Klux Klan",
+    "aliases": [
+      "KKK"
+    ],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "White supremacist Klan reference.",
+    "source_ids": [
+      "adl-311"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "aryan-terror",
+    "term": "Aryan Terror Brigade",
+    "aliases": [],
+    "category": "organization",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Racist skinhead group.",
+    "source_ids": [
+      "adl-318"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "white-power",
+    "term": "White Power",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "en"
+    ],
+    "meaning": "White supremacist slogan.",
+    "source_ids": [
+      "nds"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "fourteen-full",
+    "term": "We must secure the existence of our people and a future for white children",
+    "aliases": [],
+    "category": "slogan",
+    "languages": [
+      "en"
+    ],
+    "meaning": "Fourteen Words slogan.",
+    "source_ids": [
+      "adl-1488"
+    ],
+    "context": "strong_signal",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  }
+]

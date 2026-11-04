@@ -1,0 +1,234 @@
+[
+  {
+    "id": "bige",
+    "publisher": "Bayerische Informationsstelle gegen Extremismus",
+    "title": "Rechtsextremistische Zeichen und Symbole",
+    "url": "https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "nds",
+    "publisher": "Verfassungsschutz Niedersachsen",
+    "title": "Zahlen- und Buchstabenkombinationen auf Kfz-Kennzeichen",
+    "url": "https://www.verfassungsschutz.niedersachsen.de/startseite/aktuelles_service/aktuelle_meldungen/rechtsextremisten-nutzen-zahlen-und-buchstabenkombinationen-auf-kfz-kennzeichen-199847.html",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "bw",
+    "publisher": "Landesamt für Verfassungsschutz Baden-Württemberg",
+    "title": "Zeichen und Symbole",
+    "url": "https://www.verfassungsschutz-bw.de/%2CLde_DE/Startseite/Arbeitsfelder/Zeichen%2Bund%2BSymbole",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-crime",
+    "publisher": "Anti-Defamation League",
+    "title": "1352 1390",
+    "url": "https://www.adl.org/resources/hate-symbol/1352-1390",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-2316",
+    "publisher": "Anti-Defamation League",
+    "title": "2316",
+    "url": "https://www.adl.org/resources/hate-symbol/2316",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-318",
+    "publisher": "Anti-Defamation League",
+    "title": "318",
+    "url": "https://www.adl.org/resources/hate-symbol/318",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-336",
+    "publisher": "Anti-Defamation League",
+    "title": "336",
+    "url": "https://www.adl.org/resources/hate-symbol/336",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-271k",
+    "publisher": "Anti-Defamation League",
+    "title": "271K",
+    "url": "https://www.adl.org/resources/hate-symbol/271k",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-1488",
+    "publisher": "Anti-Defamation League",
+    "title": "1488",
+    "url": "https://www.adl.org/resources/hate-symbol/1488",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-311",
+    "publisher": "Anti-Defamation League",
+    "title": "311",
+    "url": "https://www.adl.org/resources/hate-symbol/311",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-109",
+    "publisher": "Anti-Defamation League",
+    "title": "109110",
+    "url": "https://www.adl.org/resources/hate-symbol/109110",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-rahowa",
+    "publisher": "Anti-Defamation League",
+    "title": "Rahowa",
+    "url": "https://www.adl.org/resources/hate-symbol/rahowa",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-zog",
+    "publisher": "Anti-Defamation League",
+    "title": "Zog",
+    "url": "https://www.adl.org/resources/hate-symbol/zog",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-sun",
+    "publisher": "Anti-Defamation League",
+    "title": "Sonnenrad",
+    "url": "https://www.adl.org/resources/hate-symbol/sonnenrad",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "adl-othala",
+    "publisher": "Anti-Defamation League",
+    "title": "Othala Rune",
+    "url": "https://www.adl.org/resources/hate-symbol/othala-rune",
+    "checked_at": "2026-11-03",
+    "evidence_access": "web_page"
+  },
+  {
+    "id": "ajc-echo",
+    "publisher": "American Jewish Committee",
+    "title": "(((echo)))",
+    "url": "https://www.ajc.org/index.php/translatehate/echo",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt; direct fetch returned 403"
+  },
+  {
+    "id": "ajc-hoax",
+    "publisher": "American Jewish Committee",
+    "title": "Holohoax",
+    "url": "https://www.ajc.org/index.php/translatehate/Holohoax",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt; direct fetch returned 403"
+  },
+  {
+    "id": "adl-anudda",
+    "publisher": "Anti-Defamation League",
+    "title": "Anudda Shoah",
+    "url": "https://nynj.adl.org/resources/hate-symbol/anudda-shoah",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "adl-gorillion",
+    "publisher": "Anti-Defamation League",
+    "title": "Six Gorillion",
+    "url": "https://education.adl.org/resources/hate-symbol/six-gorillion",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "turner",
+    "publisher": "Anti-Defamation League",
+    "title": "The Turner Diaries",
+    "url": "https://www.adl.org/resources/backgrounder/turner-diaries",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "adl-wpww",
+    "publisher": "Anti-Defamation League",
+    "title": "WPWW",
+    "url": "https://notoleranceforantisemitism.adl.org/resources/hate-symbol/wpww",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "adl-swp",
+    "publisher": "Anti-Defamation League",
+    "title": "SWP",
+    "url": "https://www.adl.org/resources/hate-symbol/swp",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "adl-german",
+    "publisher": "Anti-Defamation League",
+    "title": "German Phrases",
+    "url": "https://notoleranceforantisemitism.adl.org/resources/hate-symbol/german-phrases",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "ushmm",
+    "publisher": "United States Holocaust Memorial Museum",
+    "title": "Deadly Medicine: Creating the Master Race",
+    "url": "https://www.ushmm.org/exhibition/deadly-medicine/overview/",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "unwort",
+    "publisher": "Sprachkritische Aktion Unwort des Jahres",
+    "title": "2010–2019: Volksverräter",
+    "url": "https://www.unwortdesjahres.net/unwort/das-unwort-seit-1991/2010-2019/",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "adl-print",
+    "publisher": "Anti-Defamation League",
+    "title": "Hate on Display printable database (2023)",
+    "url": "https://www.adl.org/sites/default/files/documents/2023-03/hate-on-display-hate-symbols-database.pdf",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "adl-zyklon",
+    "publisher": "Anti-Defamation League",
+    "title": "Hate on Display printable database: Zyklon B",
+    "url": "https://go.adl.org/sites/default/files/ADL%20Hate%20on%20Display%20Printable_0.pdf",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "adl-pepe",
+    "publisher": "Anti-Defamation League",
+    "title": "Pepe the Frog",
+    "url": "https://www.adl.org/resources/hate-symbol/pepe-frog",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "adl-okay",
+    "publisher": "Anti-Defamation League",
+    "title": "Okay Hand Gesture",
+    "url": "https://midwest.adl.org/resources/hate-symbol/okay-hand-gesture",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt"
+  }
+]
