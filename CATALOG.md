@@ -1,6 +1,6 @@
 # ZERO_NAZ catalog
 
-71 entries. All are human-review candidates; initial research has not received independent moderator review.
+80 entries. All are human-review candidates; initial research has not received independent moderator review.
 
 | Term | Aliases | Category | Languages | Context | Meaning | Sources |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -17,8 +17,8 @@
 | Alles für Deutschland |  | slogan | de | strong_signal | SA slogan. | [bige](https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/) |
 | Frei, sozial und national |  | slogan | de | strong_signal | Neo-Nazi demonstration slogan. | [bige](https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/) |
 | Nationaler Sozialismus jetzt |  | slogan | de | strong_signal | Neo-Nazi demonstration slogan. | [bige](https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/) |
-| Combat 18 | C18, C-18 | organization | en, de | ambiguous | Neo-Nazi organization. | [bige](https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/), [adl-318](https://www.adl.org/resources/hate-symbol/318) |
-| Blood & Honour | Blood and Honour | organization | en, de | ambiguous | Racist skinhead network. | [bige](https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/) |
+| Combat 18 | C18, C-18 | organization | en, de | ambiguous | Neo-Nazi organization. | [bige](https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/), [adl-318](https://www.adl.org/resources/hate-symbol/318), [ca-lte](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx) |
+| Blood & Honour | Blood and Honour | organization | en, de | ambiguous | Racist skinhead network. | [bige](https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/), [ca-lte](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx) |
 | AH |  | acronym | en, de | ambiguous | Hitler initials. | [nds](https://www.verfassungsschutz.niedersachsen.de/startseite/aktuelles_service/aktuelle_meldungen/rechtsextremisten-nutzen-zahlen-und-buchstabenkombinationen-auf-kfz-kennzeichen-199847.html) |
 | BH |  | acronym | en, de | ambiguous | Blood & Honor initials. | [nds](https://www.verfassungsschutz.niedersachsen.de/startseite/aktuelles_service/aktuelle_meldungen/rechtsextremisten-nutzen-zahlen-und-buchstabenkombinationen-auf-kfz-kennzeichen-199847.html) |
 | HH |  | acronym | en, de | ambiguous | Nazi greeting initials. | [nds](https://www.verfassungsschutz.niedersachsen.de/startseite/aktuelles_service/aktuelle_meldungen/rechtsextremisten-nutzen-zahlen-und-buchstabenkombinationen-auf-kfz-kennzeichen-199847.html) |
@@ -75,3 +75,12 @@
 | Aryan Terror Brigade |  | organization | en | ambiguous | Racist skinhead group. | [adl-318](https://www.adl.org/resources/hate-symbol/318) |
 | White Power |  | slogan | en | strong_signal | White supremacist slogan. | [nds](https://www.verfassungsschutz.niedersachsen.de/startseite/aktuelles_service/aktuelle_meldungen/rechtsextremisten-nutzen-zahlen-und-buchstabenkombinationen-auf-kfz-kennzeichen-199847.html) |
 | We must secure the existence of our people and a future for white children |  | slogan | en | strong_signal | Fourteen Words slogan. | [adl-1488](https://www.adl.org/resources/hate-symbol/1488) |
+| Atomwaffen Division | AWD | organization | en, de | ambiguous | Entity discussed in the Canadian official register. | [ca-lte](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx) |
+| The Base |  | organization | en, de | ambiguous | Entity discussed in the Canadian official register. | [ca-lte](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx) |
+| Aryan Strikeforce |  | organization | en, de | ambiguous | Entity discussed in the Canadian official register. | [ca-lte](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx) |
+| Terrorgram Collective |  | organization | en, de | ambiguous | Entity discussed in the Canadian official register. | [ca-lte](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx) |
+| Second Sons Canada |  | organization | en, de | ambiguous | Canadian network discussed by ISD; no legal status inferred. | [ca-isd](https://www.isdglobal.org/digital-dispatch/tribe-and-train-examining-canadas-new-model-of-white-supremacist-mobilization/) |
+| Nationalist-13 |  | organization | en, de | ambiguous | Canadian network discussed by ISD; no legal status inferred. | [ca-isd](https://www.isdglobal.org/digital-dispatch/tribe-and-train-examining-canadas-new-model-of-white-supremacist-mobilization/) |
+| Frontenac Active Club |  | organization | en, de | ambiguous | Canadian network discussed by ISD; no legal status inferred. | [ca-isd](https://www.isdglobal.org/digital-dispatch/tribe-and-train-examining-canadas-new-model-of-white-supremacist-mobilization/) |
+| Toronto Pioneers | Toronto Fitness Club | organization | en, de | ambiguous | Canadian network discussed by ISD; no legal status inferred. | [ca-isd](https://www.isdglobal.org/digital-dispatch/tribe-and-train-examining-canadas-new-model-of-white-supremacist-mobilization/) |
+| Active Club Canada |  | organization | en, de | ambiguous | Canadian network discussed by ISD; no legal status inferred. | [ca-isd](https://www.isdglobal.org/digital-dispatch/tribe-and-train-examining-canadas-new-model-of-white-supremacist-mobilization/) |

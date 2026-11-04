@@ -273,7 +273,8 @@
     "meaning": "Neo-Nazi organization.",
     "source_ids": [
       "bige",
-      "adl-318"
+      "adl-318",
+      "ca-lte"
     ],
     "context": "ambiguous",
     "action": "human_review",
@@ -295,7 +296,8 @@
     ],
     "meaning": "Racist skinhead network.",
     "source_ids": [
-      "bige"
+      "bige",
+      "ca-lte"
     ],
     "context": "ambiguous",
     "action": "human_review",
@@ -320,7 +322,7 @@
     "context": "ambiguous",
     "action": "human_review",
     "modality": "text",
-    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "context_note": "Common interjection and unrelated initials. Extremely high false-positive risk.",
     "reviewed_at": "2026-11-03",
     "status": "initial_research"
   },
@@ -340,7 +342,7 @@
     "context": "ambiguous",
     "action": "human_review",
     "modality": "text",
-    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "context_note": "Common German abbreviation for a bra and unrelated initials. Extremely high false-positive risk.",
     "reviewed_at": "2026-11-03",
     "status": "initial_research"
   },
@@ -460,7 +462,7 @@
     "context": "ambiguous",
     "action": "human_review",
     "modality": "text",
-    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "context_note": "Common WordPress, word-processing, and other initials. No extremist intent inferred.",
     "reviewed_at": "2026-11-03",
     "status": "initial_research"
   },
@@ -540,7 +542,7 @@
     "context": "ambiguous",
     "action": "human_review",
     "modality": "text",
-    "context_note": "Common numbers, abbreviations, names, historical quotation, and ordinary usage require contextual interpretation.",
+    "context_note": "Ordinary year 2004 is extremely common; birthday-code interpretation requires independent contextual evidence.",
     "reviewed_at": "2026-11-03",
     "status": "initial_research"
   },
@@ -1454,6 +1456,190 @@
     "action": "human_review",
     "modality": "text",
     "context_note": "Review whether this is endorsement, a threat, reporting, quotation, education, or counterspeech.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "ca-awd",
+    "term": "Atomwaffen Division",
+    "aliases": [
+      "AWD"
+    ],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Entity discussed in the Canadian official register.",
+    "source_ids": [
+      "ca-lte"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "ca-base",
+    "term": "The Base",
+    "aliases": [],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Entity discussed in the Canadian official register.",
+    "source_ids": [
+      "ca-lte"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "ca-asf",
+    "term": "Aryan Strikeforce",
+    "aliases": [],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Entity discussed in the Canadian official register.",
+    "source_ids": [
+      "ca-lte"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "ca-terrorgram",
+    "term": "Terrorgram Collective",
+    "aliases": [],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Entity discussed in the Canadian official register.",
+    "source_ids": [
+      "ca-lte"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "ca-ssc",
+    "term": "Second Sons Canada",
+    "aliases": [],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Canadian network discussed by ISD; no legal status inferred.",
+    "source_ids": [
+      "ca-isd"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "ca-n13",
+    "term": "Nationalist-13",
+    "aliases": [],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Canadian network discussed by ISD; no legal status inferred.",
+    "source_ids": [
+      "ca-isd"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "ca-frontenac",
+    "term": "Frontenac Active Club",
+    "aliases": [],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Canadian network discussed by ISD; no legal status inferred.",
+    "source_ids": [
+      "ca-isd"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "ca-toronto",
+    "term": "Toronto Pioneers",
+    "aliases": [
+      "Toronto Fitness Club"
+    ],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Canadian network discussed by ISD; no legal status inferred.",
+    "source_ids": [
+      "ca-isd"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "ca-active",
+    "term": "Active Club Canada",
+    "aliases": [],
+    "category": "organization",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "meaning": "Canadian network discussed by ISD; no legal status inferred.",
+    "source_ids": [
+      "ca-isd"
+    ],
+    "context": "ambiguous",
+    "action": "human_review",
+    "modality": "text",
+    "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
     "reviewed_at": "2026-11-03",
     "status": "initial_research"
   }

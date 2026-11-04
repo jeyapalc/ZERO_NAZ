@@ -230,5 +230,37 @@
     "url": "https://midwest.adl.org/resources/hate-symbol/okay-hand-gesture",
     "checked_at": "2026-11-03",
     "evidence_access": "search_index_excerpt"
+  },
+  {
+    "id": "ca-lte",
+    "publisher": "Public Safety Canada",
+    "title": "Currently listed entities",
+    "url": "https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-csis",
+    "publisher": "Canadian Security Intelligence Service",
+    "title": "Public Report 2024: intelligence operations",
+    "url": "https://www.canada.ca/en/security-intelligence-service/corporate/publications/csis-public-report-2024/intelligence-operations.html",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-isd",
+    "publisher": "Institute for Strategic Dialogue",
+    "title": "Canadian white supremacist mobilization (March 2026)",
+    "url": "https://www.isdglobal.org/digital-dispatch/tribe-and-train-examining-canadas-new-model-of-white-supremacist-mobilization/",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-cahn",
+    "publisher": "Canadian Anti-Hate Network",
+    "title": "White nationalism in Canada (October 2025 editorial)",
+    "url": "https://www.antihate.ca/white_nationalism_in_canada_organized_emboldened_and_growing",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
   }
 ]

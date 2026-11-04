@@ -47,3 +47,7 @@ Do not treat the TXT files as automatic ban lists. Generic identity words, relig
 See [CONTRIBUTING.md](CONTRIBUTING.md). Edit JSON, regenerate exports, and run checks. Stable IDs let consumers track changes. Source dates and context notes must be maintained as terminology changes.
 
 Project code: MIT. Original dataset structure and project-authored annotations: CC0-1.0, to the extent the contributor can waive rights. Referenced websites, images, trademarks, and external text retain their own rights. See [LICENSE](LICENSE) and [data/LICENSE](data/LICENSE).
+
+## Canadian audit and spreadsheet exports
+
+See [Canadian coverage](docs/CANADA.md), [Canadian LTE catalog](CANADA_LTE_CATALOG.md), [audit findings](docs/AUDIT.md), and [Excel usage](docs/EXCEL.md). Read [plain-text terms](lists/terms_readable.txt), import [Excel TSV](lists/terms_excel.tsv), or use [Boolean OR](lists/terms_or.txt) / [pipe-separated](lists/terms_pipe.txt) exports. Context is required for every flag.

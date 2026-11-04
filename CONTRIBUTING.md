@@ -1,6 +1,6 @@
 # Contributing
 
-Edit `data/entries.json` and `data/sources.json`; `tools/seed.py` records initial construction and must not overwrite later edits.
+Edit `data/entries.json` and `data/sources.json`; Canonical JSON is the maintained source.
 
 Each entry needs a stable unique ID, term, explicit aliases, category, relevant languages, concise original meaning, exact source IDs, a context note, evidence date, and human-review action. Use an exact research or glossary page when possible. A general organization homepage does not establish a term's meaning. Document whether evidence came from full page text or only an indexed excerpt. Add independent corroboration where possible; speculative emoji combinations and unsourced labels are insufficient.
 
