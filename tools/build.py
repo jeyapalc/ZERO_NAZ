@@ -58,3 +58,6 @@ if __name__=='__main__':
     build()
     from export_review import export
     export(ROOT)
+
+    from export_masterlist import export_masterlist
+    export_masterlist(ROOT)

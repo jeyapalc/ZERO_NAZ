@@ -40,8 +40,8 @@ Alles für Deutschland [strong_signal / slogan] — https://www.bige.bayern.de/i
 Anudda Shoah [strong_signal / holocaust_mockery] — https://nynj.adl.org/resources/hate-symbol/anudda-shoah
 Aryan Strikeforce [ambiguous / organization] — https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx
 Aryan Terror Brigade [ambiguous / organization] — https://www.adl.org/resources/hate-symbol/318
-Atomwaffen Division [ambiguous / organization] — https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx
-AWD [ambiguous / organization] — https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx
+Atomwaffen Division [ambiguous / organization] — https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx
+AWD [ambiguous / organization] — https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx
 BH [ambiguous / acronym] — https://www.verfassungsschutz.niedersachsen.de/startseite/aktuelles_service/aktuelle_meldungen/rechtsextremisten-nutzen-zahlen-und-buchstabenkombinationen-auf-kfz-kennzeichen-199847.html
 Black Sun [ambiguous / visual_symbol] — https://www.adl.org/resources/hate-symbol/sonnenrad
 Blood & Honour [ambiguous / organization] — https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/ https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx
@@ -72,9 +72,11 @@ Meine Ehre heißt Treue [strong_signal / slogan] — https://www.bige.bayern.de/
 Meine Ehre heißt Treue! [strong_signal / slogan] — https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/
 Mit deutschem Gruß [strong_signal / slogan] — https://www.verfassungsschutz-bw.de/%2CLde_DE/Startseite/Arbeitsfelder/Zeichen%2Bund%2BSymbole
 Muh Six Gorillion [strong_signal / holocaust_mockery] — https://education.adl.org/resources/hate-symbol/six-gorillion
+National Socialist Order [ambiguous / organization] — https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx
 Nationaler Sozialismus jetzt [strong_signal / slogan] — https://www.bige.bayern.de/informationen-zu-extremismus/rechtsextremismus/zeichen-und-symbole-rechtsextremismus/
 Nationalist-13 [ambiguous / organization] — https://www.isdglobal.org/digital-dispatch/tribe-and-train-examining-canadas-new-model-of-white-supremacist-mobilization/
 NS [ambiguous / acronym] — https://www.verfassungsschutz.niedersachsen.de/startseite/aktuelles_service/aktuelle_meldungen/rechtsextremisten-nutzen-zahlen-und-buchstabenkombinationen-auf-kfz-kennzeichen-199847.html
+NSO [ambiguous / organization] — https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx
 Odal rune [ambiguous / visual_symbol] — https://www.adl.org/resources/hate-symbol/othala-rune
 Odalrune [ambiguous / visual_symbol] — https://www.adl.org/resources/hate-symbol/othala-rune
 Othala [ambiguous / visual_symbol] — https://www.adl.org/resources/hate-symbol/othala-rune

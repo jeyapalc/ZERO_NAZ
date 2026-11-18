@@ -1,5 +1,10 @@
 # ZERO_NAZ
 
+## Masterlist and user manual
+
+Start with the [cited masterlist](lists/masterlist.tsv), [one-term-per-line list](lists/masterlist.txt), and [Excel / PowerShell manual](manual/README.md). Each project has one masterlist across source languages. Canadian relevance, evidence, and context govern inclusion; this is not a translation exercise. Existing project translations remain labelled as such, not evidence of Canadian usage. The broader Canadian entity registry remains separate because not every listed entity is IMVE.
+
+
 **Sourced moderation lexicons for public forums. First collection: white nationalism and neo-Nazism, English and German.**
 
 A SecLists-style starting collection for moderator review queues, research, and filter development. Contains explicit slogans, names, organizations, publications, coded numbers, acronyms, antisemitic dogwhistles, and symbol references. See the [browsable catalog](CATALOG.md), [structured entries](data/entries.json), and [source registry](data/sources.json).

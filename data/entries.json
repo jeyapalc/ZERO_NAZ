@@ -1463,7 +1463,9 @@
     "id": "ca-awd",
     "term": "Atomwaffen Division",
     "aliases": [
-      "AWD"
+      "AWD",
+      "National Socialist Order",
+      "NSO"
     ],
     "category": "organization",
     "languages": [
@@ -1472,13 +1474,14 @@
     ],
     "meaning": "Entity discussed in the Canadian official register.",
     "source_ids": [
-      "ca-lte"
+      "ca-lte",
+      "ca-lte-current"
     ],
     "context": "ambiguous",
     "action": "human_review",
     "modality": "text",
     "context_note": "Canadian research reference. No membership, endorsement, or LTE status inferred from a mention. Names can have unrelated uses. Consult the separate Canadian LTE registry for designation.",
-    "reviewed_at": "2026-11-03",
+    "reviewed_at": "2026-11-17",
     "status": "initial_research"
   },
   {
