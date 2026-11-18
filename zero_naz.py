@@ -16,7 +16,7 @@ def pattern(term):
     return re.compile(r'(?<![^\W_])' + re.escape(normalize(term)) + r'(?![^\W_])')
 
 def load_entries():
-    return json.loads((ROOT / 'data/entries.json').read_text())
+    return json.loads((ROOT / 'data/entries.json').read_text(encoding='utf-8'))
 
 def scan(text, include_ambiguous=False):
     normalized = normalize(text)
